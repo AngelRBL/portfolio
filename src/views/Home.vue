@@ -189,6 +189,7 @@ strong {
 
 .info {
   text-align: start;
+  padding: 30px;
 }
 
 .info a {
